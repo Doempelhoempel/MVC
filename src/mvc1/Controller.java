@@ -1,5 +1,9 @@
 package mvc1;
 
+/**
+ * controller class
+ *
+ */
 public class Controller {
 	private Model model;
 	
